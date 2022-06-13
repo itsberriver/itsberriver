@@ -7,7 +7,7 @@
 I'm a full-stack junior developer, with training in a full-stack bootcamp of 850h. I am also a graphic designer and illustrator with experience in the sector.
   
 
-At the bootcamp I have done different projects both in group and individual with different languages and tools such as php, laravel, Javascript, mysql, react, Vue, among others, all learned through active pedagogy and SCRUM methodology. Actualmente estoy también de forma paralela sacándome un certificado de técnico de sistemas de Google mediante cúrsela.
+At the bootcamp I have done different projects both in group and individual with different languages and tools such as php, laravel, Javascript, mysql, react, Vue, among others, all learned through active pedagogy and SCRUM methodology. At the moment I am also in parallel taking a Google systems technician certificate through Coursera.
 
 I speak Spanish and Catalan natively, advanced English, basic German and beginner Korean. I am a responsible and hardworking person, eager to learn and take on new challenges. </h4>
 
