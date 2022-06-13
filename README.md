@@ -1,7 +1,6 @@
 <h1 align="center">Hi 👋, I'm Jess!🌸✨</h1>
 <h3 align="center">I'm a full-stack junior developer, graphic designer and illustrator✨</h3>
 
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=itsberriver" alt="itsberriver" /></a> </p>
 
 - 💻​ Experience **Full-stack developer bootcamp (850h), branding, graphic design, ux/ui**
 
