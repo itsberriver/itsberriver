@@ -4,12 +4,18 @@
 <h1 align="center">Hi 👋, I'm Jess!🌸✨</h1>
 
 
+![Group 18](https://user-images.githubusercontent.com/99019637/173313247-4289f5bc-fcba-49dd-8c8c-46f17a9bea2e.png)
 
 
 
-- 💻​ Experience **Full-stack developer bootcamp (850h), branding, graphic design, ux/ui**
-
-- 📫 How to reach me **jessica.berriver@gmail.com**
+- 💻​ Experience:
+  -  **Full-stack developer in a bootcamp (850h)
+  -  **ux/ui**
+-  **graphic design
+  -  **branding
+  -  **graphic design
+  
+- 📫 CONTACT: **jessica.berriver@gmail.com**
 
 
 
