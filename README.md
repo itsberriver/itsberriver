@@ -1,3 +1,6 @@
+![Group 14background readme](https://user-images.githubusercontent.com/99019637/173310815-e0372588-2d94-446e-97d0-583123ac6273.png)
+
+
 <h1 align="center">Hi 👋, I'm Jess!🌸✨</h1>
 <h3 align="center">I'm a full-stack junior developer, graphic designer and illustrator✨</h3>
 
