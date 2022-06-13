@@ -1,7 +1,7 @@
 ![Group 14readme_01](https://user-images.githubusercontent.com/99019637/173312604-4e04d5c4-eecc-433b-b99e-db460634d6a1.png)
 
 
-<h1 align="center">Hi 👋, I'm Jess!🌸✨</h1>
+<h1 align="center">Hi 👋 I'm Jess!🌸✨</h1>
 
 <h4 align="center"> My name is Jessica, 
 I'm a junior  full-stack developer, with training in a full-stack bootcamp of 850h. I am also a graphic designer and illustrator with experience in the sector.
