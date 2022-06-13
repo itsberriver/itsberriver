@@ -3,9 +3,7 @@
 
 <h1 align="center">Hi 👋, I'm Jess!🌸✨</h1>
 
-align="center"> 
-
-Hi! My name is Jessica, I'm a junior 💻 full-stack developer, with training in a full-stack bootcamp of 850h, I'm also a 🖥️ graphic designer and ✏️illustrator. 
+<align="center"> Hi! My name is Jessica, I'm a junior 💻 full-stack developer, with training in a full-stack bootcamp of 850h, I'm also a 🖥️ graphic designer and ✏️illustrator. 
 
 At the bootcamp I have done different projects both in group and individual with different languages and tools such as php, laravel, Javascript, mysql, react, Vue, among others, all learned through active pedagogy and SCRUM methodology.
 
@@ -19,15 +17,7 @@ I speak Spanish and Catalan natively, advanced English, basic German and beginne
 
 ![Group 18](https://user-images.githubusercontent.com/99019637/173313247-4289f5bc-fcba-49dd-8c8c-46f17a9bea2e.png)
 
-
-
-- 💻​ Experience:
-  -  **Full-stack developer in a bootcamp (850h)**
-  -  **ux/ui**
-  -  **graphic design**
-  
-- 📫 CONTACT: **jessica.berriver@gmail.com**
-
-
-
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=itsberriver)]([https://github.com/anuraghazra/github-readme-stats](https://github.com/itsberriver))
+
+  
+ 📫 CONTACT: **jessica.berriver@gmail.com**
