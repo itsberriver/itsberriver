@@ -20,4 +20,4 @@ I speak Spanish and Catalan natively, advanced English, basic German and beginne
 ![Group 18](https://user-images.githubusercontent.com/99019637/173313247-4289f5bc-fcba-49dd-8c8c-46f17a9bea2e.png)
 
   
- 📫 CONTACT: **jessica.berriver@gmail.com**
+ 📫 If you want to contact me: **jessica.berriver@gmail.com**
