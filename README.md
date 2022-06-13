@@ -5,7 +5,7 @@
 
 <h4 align="center"> My name is Jessica, I'm a junior  full-stack developer, with training in a full-stack bootcamp of 850h, I'm also a graphic designer and illustrator. 
 
-At the bootcamp I have done different projects both in group and individual with different languages and tools such as php, laravel, Javascript, mysql, react, Vue, among others, all learned through active pedagogy and SCRUM methodology.
+At the bootcamp I have done different projects both in group and individual with different languages and tools such as php, laravel, Javascript, mysql, react, Vue, among others, all learned through active pedagogy and SCRUM methodology. Actualmente estoy también de forma paralela sacándome un certificado de técnico de sistemas de Google mediante cúrsela.
 
 I speak Spanish and Catalan natively, advanced English, basic German and beginner Korean. I am a responsible and hardworking person, eager to learn and take on new challenges. </h4>
 
