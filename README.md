@@ -4,7 +4,7 @@
 <h1 align="center">Hi 👋 I'm Jess!🌸✨</h1>
 
 <h4 align="center"> My name is Jessica, 
-I'm a junior  full-stack developer, with training in a full-stack bootcamp of 850h. I am also a graphic designer and illustrator with experience in the sector.
+I'm a full-stack junior developer, with training in a full-stack bootcamp of 850h. I am also a graphic designer and illustrator with experience in the sector.
   
 
 At the bootcamp I have done different projects both in group and individual with different languages and tools such as php, laravel, Javascript, mysql, react, Vue, among others, all learned through active pedagogy and SCRUM methodology. Actualmente estoy también de forma paralela sacándome un certificado de técnico de sistemas de Google mediante cúrsela.
